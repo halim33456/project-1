@@ -1,0 +1,246 @@
+
+.div1{
+  height: 80px;
+  background-color: #ede883;
+}
+
+.div1:hover{
+  background-color: aquamarine;
+
+}
+
+.hh1:hover{
+  color: purple;
+}
+
+.leftimage img:hover{
+  border-radius: 10%;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+.hh1{
+margin-left: 40px;
+padding: 10px;
+color: red;
+font-weight: bold;
+}
+
+
+/* 1st colom start */
+
+
+.about{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 30px;
+}
+
+.abt:hover{
+  color: red;
+}
+
+.p1:hover{
+  color: green;
+}
+
+.p1{
+  text-align: center;
+  font-size: 24px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+/* left image start */
+
+.leftimage img{
+  margin-left: 290px;
+  margin-top: 70px;
+  width: 470px;
+  height: 300px;
+  border-radius: 5px;
+  display: block;
+
+  
+
+}
+.h44{
+  font-size: 26px;
+  font-weight: 700;
+  color: #e41d1d;
+  letter-spacing: 0.25px;
+  position: absolute;
+  margin-top: -45px;
+}
+
+.right-text{
+  display: inline-block;
+  width: 400px;
+  height: 250px;
+  margin-left: 843px;
+  margin-top: -240px;
+  position: relative;
+
+}
+.p2{
+  position: absolute;
+  font-size: 16px;
+  line-height: 24px;
+  color:black;
+  margin-top: 25px;
+}
+
+.p2:hover{
+
+ color: purple;
+}
+
+.p3:hover{
+  color: purple;
+}
+
+.white-botton{
+  display: block;
+  position: relative;
+  margin-top: 20px;
+
+}
+.white-botton a{
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #cfe90b;
+    color: #a43f49;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    transition: all 0.5s;
+    position: absolute;
+    margin-left: 845px;
+    margin-top: -92px;
+    text-decoration: none;
+}
+
+.hover1:hover{
+  background-color: red;
+  color: white;
+}
+
+/* 1st colom :end */
+
+/* right image start */
+
+
+
+/* 2nd colom start */
+
+.rightimage{
+  margin-top: 60px;
+}
+
+.border{
+  height: 3px;
+  background-color: black;
+}
+
+.h45{
+  font-size: 26px;
+  font-weight: 700;
+  color: #b00808;
+  letter-spacing: 0.25px;
+  position: absolute;
+  margin-top: -60px;
+}
+
+.left-text{
+  display: inline-block;
+  width: 400px;
+  height: 250px;
+  margin-left: 297px;
+  position: relative;
+  margin-top: -223px;
+
+}
+.rightimage img{
+  margin-left: 835px;
+  width: 470px;
+  height: 300px;
+  border-radius: 5px;
+  
+
+}
+
+
+
+.white-botton2{
+  display: block;
+  position: relative;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.wght{
+  display: inline-block;
+  padding: 12px 20px;
+  background-color:#cfe90b;
+  color: #a43f49;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  transition: all 0.5s;
+  position: absolute;
+  margin-left: 295px;
+  margin-top: -110px;
+  text-decoration: none;
+}
+
+
+
+.wght:hover{
+  background-color: red;
+  color: white;
+}
+
+
+.p3{
+  position: absolute;
+  font-size: 16px;
+  line-height: 24px;
+  color: black;
+  margin-top: 0px;
+
+}
+
+
+/* 3rd colom start */
+.what{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+.p4{
+  text-align: center;
+  font-size: 24px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
+.rw{
+  position: absolute;
+  display: flex;
+  column-gap: 30px;
+  margin-top: 80px;
+  margin-bottom: 1000px;
+ 
+}
+.rw1{
+  margin-left: 300px;
+
+}
+
+.rw2{
+  margin-right: 300px;
+
+}
